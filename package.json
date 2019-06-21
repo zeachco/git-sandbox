@@ -9,5 +9,9 @@
     "url": "git+https://github.com/zeachco/git-sandbox.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.11"
+  }
 }
