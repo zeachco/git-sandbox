@@ -3,12 +3,14 @@
   "version": "1.2.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node ./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zeachco/git-sandbox.git"
   },
-  "author": "",
+  "author": "Olivier",
   "license": "ISC",
   "devDependencies": {
     "express": "^4.17.1",
